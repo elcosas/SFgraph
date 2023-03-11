@@ -1,0 +1,6 @@
+# Ignore build files
+*.o
+bin/
+
+# Ignore test csv
+*.csv
